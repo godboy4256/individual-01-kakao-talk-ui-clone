@@ -1,3 +1,3 @@
 # KoKo Clone 202 Update
 
-css got so much better!
+Html and Css are so much Fun!

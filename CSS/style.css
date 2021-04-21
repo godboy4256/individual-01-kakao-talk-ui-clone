@@ -10,6 +10,7 @@
 /* screen_styles */
 @import url(screen/status_bar.css);
 @import url(screen/index.css);
+@import url(screen/friend.css);
 /* screen_styles */
 
 body {

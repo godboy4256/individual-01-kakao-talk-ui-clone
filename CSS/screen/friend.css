@@ -1,0 +1,10 @@
+.friend__nav-list {
+  display: flex;
+  justify-content: space-between;
+  background: rgb(238, 238, 238);
+  padding: 20px 30px;
+}
+.friend__nav-list > .friend__nav-button {
+  display: flex;
+  justify-content: center;
+}

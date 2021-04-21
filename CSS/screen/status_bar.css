@@ -14,7 +14,6 @@
   display: flex;
   justify-content: center;
   font-weight: 700;
-  color: rgb(62, 84, 212);
 }
 .status_bar .status-bar__column:last-child {
   display: flex;

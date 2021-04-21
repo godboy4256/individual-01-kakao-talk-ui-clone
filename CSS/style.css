@@ -1,9 +1,16 @@
-@charset "utf-8";
-
+/* fonts */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+/* fonts */
+
+/* public */
 @import url(reset.css);
-@import url(status_bar.css);
-@import url(index.css);
+@import url(var.css);
+/* public */
+
+/* screen_styles */
+@import url(screen/status_bar.css);
+@import url(screen/index.css);
+/* screen_styles */
 
 body {
   font-family: "Roboto", sans-serif;

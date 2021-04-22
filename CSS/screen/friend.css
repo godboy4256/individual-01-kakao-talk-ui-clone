@@ -2,9 +2,45 @@
   display: flex;
   justify-content: space-between;
   background: rgb(238, 238, 238);
-  padding: 20px 30px;
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 20px 50px;
+  box-sizing: border-box;
 }
 .friend__nav-list > .friend__nav-button {
   display: flex;
   justify-content: center;
+  position: relative;
+}
+.friend__nav-list > .friend__nav-button i {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.friend__nav-list > .friend__nav-button .nav__chatcomment__lenth {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  background-color: tomato;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 50%;
+  font-size: 15px;
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+}
+.friend__nav-list > .friend__nav-button .update__dot {
+  display: block;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  position: absolute;
+  top: -5px;
+  right: 0;
 }

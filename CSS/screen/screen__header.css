@@ -1,0 +1,24 @@
+.screen__header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 13px;
+  box-sizing: border-box;
+  margin-top: 35px;
+}
+.screen__header .screen__header__tit {
+  font-size: 35px;
+  font-weight: 500;
+}
+
+.screen__header .screen__header__icons {
+  display: flex;
+  justify-content: space-between;
+}
+.screen__header .screen__header__icons li {
+  padding: 0 10px;
+}
+.screen__header .screen__header__icons li:last-child {
+  padding-right: 0;
+}

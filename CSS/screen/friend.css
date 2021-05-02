@@ -1,46 +1,62 @@
-.friend__nav-list {
+#friend__toplinkbar {
   display: flex;
-  justify-content: space-between;
-  background: rgb(238, 238, 238);
-  padding: 20px 0;
-  border-top: 1px solid #ddd;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  padding: 20px 50px;
-  box-sizing: border-box;
-}
-.friend__nav-list > .friend__nav-button {
-  display: flex;
-  justify-content: center;
-  position: relative;
-}
-.friend__nav-list > .friend__nav-button i {
-  color: rgba(0, 0, 0, 0.5);
-}
-
-.friend__nav-list > .friend__nav-button .nav__chatcomment__lenth {
-  display: flex;
-  width: 30px;
-  height: 30px;
-  background-color: tomato;
   justify-content: center;
   align-items: center;
-  color: #fff;
-  font-weight: 600;
-  border-radius: 50%;
-  font-size: 15px;
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
+  padding: 20px 0;
+  background-color: rgb(240, 240, 240);
+  font-size: 20px;
+  margin-bottom: 20px;
 }
-.friend__nav-list > .friend__nav-button .update__dot {
+#friend__toplinkbar i {
+  color: rgba(66, 66, 66, 0.5);
+}
+#friend__toplinkbar i.fa-info-circle {
+  margin-right: 10px;
+}
+#friend__toplinkbar i.fa-chevron-right {
+  margin-left: 10px;
+}
+
+.friend_main .user_comp:last-child .user_abarta {
+  background-color: var(--input_color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.friend_main .user_comp:last-child .user_abarta > span {
   display: block;
-  background-color: tomato;
-  width: 6px;
-  height: 6px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  color: var(--input_color);
+  background-color: rgb(43, 11, 11);
+  font-size: 20px;
   border-radius: 50%;
-  position: absolute;
-  top: -5px;
-  right: 0;
 }
+
+/* animamtion_kokoa */
+@keyframes kokoaani {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.kokoa_ainmation {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--input_color);
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: kokoaani 0.4s ease-in-out 1s forwards;
+}
+/* animamtion_kokoa */

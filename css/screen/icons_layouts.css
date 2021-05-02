@@ -1,0 +1,25 @@
+.icons_layout {
+  padding: 30px 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+/* .icons_layout > li {
+  width: 25%;
+  flex: none;
+} */
+.icons_layout > li > a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.icons_layout > li > a > i {
+  font-size: 30px;
+}
+.icons_layout > li > a > span {
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 20px;
+}

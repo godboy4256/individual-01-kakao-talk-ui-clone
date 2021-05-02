@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome top KoKoa Talk</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body id="chat_body_color">
+    <div class="status_bar">
+        <div class="status-bar__column">
+            <span>No Service</span>
+            <i class="fas fa-wifi"></i>
+        </div>
+        <div class="status-bar__column">
+            <time datetime="2021-04-19 18:43">
+                18:43
+            </time>
+        </div>
+        <div class="status-bar__column">
+            <span>110%</span>
+            <i class="fas fa-battery-three-quarters fa-2x"></i>
+            <i class="fas fa-bolt"></i>
+        </div>
+     </div>
+    
+     <header class="screen__header_type02 chat_screen_header">
+         <a href="chats.html" class="back_link">
+            <i class="fas fa-chevron-left chat_screen_header_tag"></i>  
+         </a>
+        <h1 class="screen__header__tit chat_screen_header_tag">Seok Ji Woong</h1>
+        <div class="screen__header_type02__righticons chat_screen_header_tag">
+            <i class="fas fa-search"></i>
+            <i class="fas fa-bars"></i>
+        </div>
+     </header>
+
+    <section class="main_screen chat_main">
+        <span class="chatings_time">Tuseday, June 30, 2020</span>
+
+        <div class="chats_row left_ani">
+            <div class="chats_culnum">
+                <img src="images/cat.jfif" alt="cat">
+            </div>
+            <div class="chats_culnum chats_info">
+                <h3>Kim</h3>
+                <div class="comment_box">
+                  <span class="user_comments">Hi!</span>
+                  <span class="user_comments_time">21:27</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="chats_row chats_row_own right_ani">
+            <div class="chats_culnum chats_info">
+                <div class="comment_box comment_box_own">
+                  <span class="user_comments">What are you doing?</span>
+                  <span class="user_comments_time">21:27</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="reply_form_box">
+            <div class="reply_form_culnum">
+                <i class="far fa-plus-square"></i>
+            </div>
+            <div class="reply_form_culnum id_form">
+                <form action="kokoa.html" method="GET">
+                    <input type="text" name="id" id="id" placeholder="hello world">
+                    <div class="form_inicons_culnum">
+                      <i class="far fa-smile"></i>
+                      <input type="submit" name="reple" id="reple" class="ir_pm">
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+    </section>
+
+    <script src="https://kit.fontawesome.com/9657341cb6.js"
+     crossorigin="anonymous"></script>
+</body>
+</html>

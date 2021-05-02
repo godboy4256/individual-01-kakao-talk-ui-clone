@@ -1,0 +1,47 @@
+.setting_options_list {
+  border-bottom: var(--border_defaultcolor);
+  padding: 10px 0;
+}
+
+.setting_options_list .settings_option {
+  width: 100%;
+  padding: 20px 0;
+  border-bottom: var(--border_defaultcolor);
+  border-color: rgba(204, 204, 204, 0.4);
+  display: flex;
+  align-items: center;
+}
+
+.setting_options_list:last-child,
+.setting_options_list .settings_option:last-child {
+  border-bottom: none;
+}
+
+.setting_options_list:first-child {
+  padding-top: 0;
+}
+
+.setting_options_list .settings_option i {
+  font-size: 20px;
+  display: block;
+  width: 20px;
+}
+
+.setting_options_list .settings_option span {
+  font-size: 20px;
+  margin-left: 30px;
+}
+.setting_space_flexbox {
+  display: flex;
+  align-items: center;
+}
+.settings_option.setting_space {
+  justify-content: space-between;
+}
+.setting_space_flexbox span {
+  display: flex;
+}
+.setting_space_flexbox:last-child span {
+  color: var(--font_defaultcolor);
+  opacity: 0.6;
+}

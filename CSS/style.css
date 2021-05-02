@@ -35,7 +35,7 @@ body:after {
   width: 100%;
   height: 100%;
   background-color: var(--input_color);
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   content: "PC에서는 지원하지 않는 서비스입니다.";
@@ -44,6 +44,7 @@ body:after {
   justify-content: center;
   align-items: center;
   display: none;
+  z-index: 5000;
 }
 .main_screen {
   width: 100%;

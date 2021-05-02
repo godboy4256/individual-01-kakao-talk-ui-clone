@@ -1,0 +1,94 @@
+.screen__header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px var(--horizontal_screen);
+  box-sizing: border-box;
+  margin-top: 35px;
+}
+.screen__header .screen__header__tit {
+  font-size: 35px;
+  font-weight: 500;
+}
+
+.screen__header .screen__header__icons {
+  display: flex;
+  justify-content: space-between;
+}
+.screen__header .screen__header__icons li {
+  padding: 0 10px;
+  position: relative;
+}
+.screen__header .screen__header__icons li:last-child {
+  padding-right: 0;
+}
+.screen__header .screen__header__icons li .update__dot {
+  top: -11px;
+  right: -2px;
+}
+
+.screen__header_type02 {
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px var(--horizontal_screen);
+}
+.screen__header_type02 h1 {
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.screen__header_type02 i {
+  font-size: 30px;
+}
+.screen__header_type02 i:last-child {
+  margin-left: auto;
+  font-size: 30px;
+}
+.screen__header_type02 .back_link {
+  display: block;
+  margin-right: auto;
+}
+
+.chat_screen_header.screen__header_type02 > .chat_screen_header_tag {
+  width: 33.3333%;
+}
+.chat_screen_header.screen__header_type02
+  > .chat_screen_header_tag:first-child {
+  display: flex;
+  justify-content: flex-start;
+}
+.chat_screen_header.screen__header_type02 > .chat_screen_header_tag:last-child {
+  display: flex;
+  justify-content: flex-end;
+}
+.chat_screen_header.screen__header_type02
+  > .chat_screen_header_tag:last-child
+  i {
+  margin: 0;
+}
+.chat_screen_header.screen__header_type02
+  > .chat_screen_header_tag:last-child
+  i:last-child {
+  margin-left: 10px;
+}
+.chat_screen_header.screen__header_type02
+  > .chat_screen_header_tag:nth-child(2) {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+@keyframes coganima {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+
+.fa-cog:hover {
+  animation: coganima 1.3s linear 0s infinite;
+}

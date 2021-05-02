@@ -1,0 +1,77 @@
+.user_comp__culnum .user_abarta {
+  background-color: #ccc;
+  width: 70px;
+  height: 70px;
+  border-radius: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.user_abarta.user_abarta_xl {
+  width: 80px;
+  height: 80px;
+}
+.user_abarta.user_abarta_sm {
+  width: 60px;
+  height: 60px;
+}
+.user_comp {
+  box-sizing: border-box;
+  margin: 20px 0;
+}
+.user_comp:first-child {
+  margin-top: 0;
+}
+
+.user_comp,
+.user_comp__culnum {
+  display: flex;
+  align-items: center;
+}
+
+.user_comp.user_comp_spacetype,
+.user_comp.user_comp_spacetype > a {
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+  width: 100%;
+}
+
+.user_channel_header {
+  border-top: 1px solid #ddd;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+}
+
+.user_channel_header span,
+.user_channel_header i {
+  font-size: 15px;
+  color: #777;
+}
+
+.user_comp__culnum.more_chat_length a > span,
+.user_comp__culnum.more_chat_length a > i {
+  font-size: 15px;
+  color: #777;
+}
+
+.user_comp__culnum__tits {
+  padding-left: 20px;
+}
+.user_comp__culnum__maintit {
+  font-size: 20px;
+  font-weight: 600;
+}
+.user_comp__culnum__subtit {
+  font-size: 15px;
+  color: #777;
+  font-weight: 300;
+  padding-top: 5px;
+}
+.user_comp__culnum__maintit.comp__tite_notbold {
+  font-weight: 400;
+}

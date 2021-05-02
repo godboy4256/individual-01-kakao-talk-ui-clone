@@ -1,9 +1,0 @@
-.chats_main .user_comp .user_comp__culnum:last-child {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-}
-.chats_main .user_comp .user_comp__culnum:last-child .chattime {
-  display: block;
-  margin-bottom: 10px;
-}

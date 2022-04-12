@@ -2,9 +2,7 @@
 
 **![다운로드](https://user-images.githubusercontent.com/82381946/162938225-301a1b1e-5afc-4f51-816a-7b75221511ed.png)**
 
-학습 목표 : HTML과 CSS에 기초적인 활용
-
-
+## 학습 목표
 ```
 예시
 ```

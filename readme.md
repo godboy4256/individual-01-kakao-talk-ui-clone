@@ -13,6 +13,7 @@ HTML 과 CSS 에 대한 기본적인 활용
 ## 페이지 소개
 
 1. 로그인 페이지 ( index.html )
+![스크린샷 2022-04-12 오후 9 59 43](https://user-images.githubusercontent.com/82381946/162968506-e040a7ce-37e3-46ef-b9e4-e43731192944.png)
 
 ### 테스트는 이런 식으로 동작합니다
 

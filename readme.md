@@ -1,23 +1,18 @@
 # 개인 프로젝트 ( 학습 ) 01 : 카카오톡 UI 클론 코딩
 
-**![다운로드](https://user-images.githubusercontent.com/82381946/162938225-301a1b1e-5afc-4f51-816a-7b75221511ed.png)**
+<p align="center"><img src="https://play-lh.googleusercontent.com/8_0SDfkFXAFm12A7XEqkyChCdGC055J6fC8JR7qynNuO3qNOczIoNHo4U4lad8xYMJOL"></p>
+
+&nbsp;
 
 ## 학습 목표
-```
-예시
-```
 
-### Installing / 설치
+HTML 과 CSS 에 대한 기본적인 활용
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+&nbsp;
 
-```
-예시
-```
+## 페이지 소개
 
-## Running the tests / 테스트의 실행
-
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
+1. 로그인 페이지 ( index.html )
 
 ### 테스트는 이런 식으로 동작합니다
 
@@ -39,8 +34,8 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 
 ## Built With / 누구랑 만들었나요?
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
+- [이름](링크) - 무엇 무엇을 했어요
+- [Name](Link) - Create README.md
 
 ## Contributiong / 기여
 
@@ -52,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments / 감사의 말
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+- Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
+- Inspiration / 영감
+- etc / 기타

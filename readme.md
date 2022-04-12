@@ -18,15 +18,15 @@ HTML 과 CSS 에 대한 기본적인 활용
 
 &nbsp;
 
-### 1. 카카오톡 친구 관리 페이지 ( friend.html )
+### 2. 친구 관리 페이지 ( friend.html )
 &nbsp;
 ![ezgif-2-fd9a789a39](https://user-images.githubusercontent.com/82381946/162969709-37323e29-1b77-4ca6-b6a0-2bd18dce2831.gif)
 
 &nbsp;
 
-### 1. 로그인 페이지 ( index.html )
+### 1. 채팅방 목록 페이지 ( index.html )
 &nbsp;
-![스크린샷 2022-04-12 오후 9 59 43](https://user-images.githubusercontent.com/82381946/162968506-e040a7ce-37e3-46ef-b9e4-e43731192944.png)
+![ezgif-2-339d6dcf2b](https://user-images.githubusercontent.com/82381946/162970512-429882c4-fe4d-41c2-acb2-64c10602e191.gif)
 
 &nbsp;
 

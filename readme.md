@@ -1,11 +1,9 @@
-# Project Title / 개인 프로젝트 ( 학습 ) 01 : 카카오톡 UI 클론 코딩
+# 개인 프로젝트 ( 학습 ) 01 : 카카오톡 UI 클론 코딩
 
-**![다운로드](https://user-images.githubusercontent.com/82381946/162938225-301a1b1e-5afc-4f51-816a-7b75221511ed.png)**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+**![다운로드](https://user-images.githubusercontent.com/82381946/162938225-301a1b1e-5afc-4f51-816a-7b75221511ed.png)**
 
-### Prerequisites / 선행 조건
+학습 목표 : HTML과 CSS에 기초적인 활용
 
-아래 사항들이 설치가 되어있어야합니다.
 
 ```
 예시

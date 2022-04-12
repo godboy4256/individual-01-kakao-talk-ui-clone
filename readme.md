@@ -18,7 +18,7 @@ HTML 과 CSS 에 대한 기본적인 활용
 
 &nbsp;
 
-### 1. 친구 페이지 ( index.html )
+### 1. 카카오톡 친구 관리 페이지 ( friend.html )
 &nbsp;
 ![ezgif-2-fd9a789a39](https://user-images.githubusercontent.com/82381946/162969709-37323e29-1b77-4ca6-b6a0-2bd18dce2831.gif)
 

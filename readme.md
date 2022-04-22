@@ -12,28 +12,24 @@ HTML 과 CSS 에 대한 기본적인 활용
 
 ## 페이지 소개
 
-### 1. 로그인 페이지 ( index.html )
-&nbsp;
-![스크린샷 2022-04-12 오후 9 59 43](https://user-images.githubusercontent.com/82381946/162968506-e040a7ce-37e3-46ef-b9e4-e43731192944.png)
+### 1. 로그인 페이지에서 친구 목록 페이지로 이동
+![로그인 페이지에서 친구목록 페이지로 이동](https://user-images.githubusercontent.com/82381946/164736706-99b3c2d0-6e6d-407b-bd2e-c66e8e4dc654.gif)
 
 &nbsp;
 
-### 2. 친구 관리 페이지 ( friend.html )
-&nbsp;
-![ezgif-2-fd9a789a39](https://user-images.githubusercontent.com/82381946/162969709-37323e29-1b77-4ca6-b6a0-2bd18dce2831.gif)
+### 2. 채팅방 페이지에서 조회페이지로 이동 및 세부 설정 페이지 이동
+![채팅방 목록에서 채팅방안으로](https://user-images.githubusercontent.com/82381946/164737067-20030471-d16f-4881-b046-dfadd916d2d5.gif)
+
 
 &nbsp;
 
-### 1. 채팅방 목록 페이지 ( index.html )
-&nbsp;
-![ezgif-2-339d6dcf2b](https://user-images.githubusercontent.com/82381946/162970512-429882c4-fe4d-41c2-acb2-64c10602e191.gif)
+### 3. 조회 페이지로 이동
+![로그인,채팅 목록](https://user-images.githubusercontent.com/82381946/164737213-2b5eba44-6216-4aa5-bb39-6bb29e79dffb.gif)
 
 &nbsp;
 
-### 1. 로그인 페이지 ( index.html )
-&nbsp;
-![스크린샷 2022-04-12 오후 9 59 43](https://user-images.githubusercontent.com/82381946/162968506-e040a7ce-37e3-46ef-b9e4-e43731192944.png)
+### 1. 더보기 페이지로 이동
+![more페이지](https://user-images.githubusercontent.com/82381946/164737408-98c53bd0-3810-492c-98e4-03a21ee3dc8e.gif)
 
-&nbsp;
 
 

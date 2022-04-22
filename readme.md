@@ -21,7 +21,8 @@ HTML 과 CSS 에 대한 기본적인 활용
 &nbsp;
 
 ### 2. 채팅방 페이지에서 조회페이지로 이동 및 세부 설정 페이지 이동
-![채팅방 목록에서 채팅방안으로](https://user-images.githubusercontent.com/82381946/164737067-20030471-d16f-4881-b046-dfadd916d2d5.gif)
+![채팅방 목록에서 채팅방안으로](https://user-images.githubusercontent.com/82381946/164737067-20030471-d16f-4881-b046-dfadd916d2d5.gif)&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 카카오톡 로그인 후 친구 목록 페이지로 이동

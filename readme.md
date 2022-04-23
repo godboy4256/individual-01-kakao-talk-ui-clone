@@ -23,17 +23,16 @@ HTML 태그, 그리고 CSS의 수 많은 속성들에 대한 활용법을 공부
 &nbsp;
 &nbsp;
 
-## 활용 스택 및 툴
+## 활용 스택
 
 ### <img src="https://user-images.githubusercontent.com/82381946/164891265-22b836be-a36a-411f-8e50-f7e400d3f0cb.png"  width="50"/> <p>HTML</p> 
 ### <img src="https://user-images.githubusercontent.com/82381946/164891267-2360c764-827e-4661-9842-a1fd29a41b57.png"  width="50"/>  <p>CSS</p> 
-### <img src="https://user-images.githubusercontent.com/82381946/164891461-d6a78696-44f6-42e9-ab3f-dc8031527fc2.png"  width="50"/><p>Font Aswesome</p> 
 
 
 &nbsp;
 &nbsp;
 
-## 페이지 소개
+## 서비스 소개
 
 ### 1. 로그인 페이지
 #### 로그인 페이지입니다. 실제로 로그인 기능을 수행하지는 않지만 로그인 양식을 모두 작성해야만 하단 메뉴바의 첫 번째 페이지인 친구 목록 페이지로 이동할 수 있도록 하였습니다. 또한 로그인 양식에 마우스 포커스를 했을 때 부드럽게 하단의 보더 색깔이 변경되도록 모션을 추가하였습니다.
